@@ -37,7 +37,7 @@ This script implements the following functionalities:
 
 Before running the script, ensure you have the following installed:
 
-*   **Python 3.x:**  (https://www.python.org/downloads/)
+*   **Python 3.x:**
 *   **psycopg2:** PostgreSQL adapter for Python. Install using pip:
     ```bash
     pip install psycopg2-binary
@@ -46,7 +46,7 @@ Before running the script, ensure you have the following installed:
     ```bash
     pip install pandas openpyxl
     ```
-*   **PostgreSQL:** Database server. (https://www.postgresql.org/download/)
+*   **PostgreSQL:** Database server.
     *   Ensure PostgreSQL is installed and running.
     *   Create a database named `ShopDetails` (or modify `DB_NAME` in the script).
     *   Create a PostgreSQL user named `postgres` with password `yukesh8585` (or modify `DB_USER` and `DB_PASSWORD` in the script).  **It is highly recommended to use stronger and different credentials for production environments.**
