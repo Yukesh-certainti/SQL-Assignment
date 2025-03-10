@@ -2,7 +2,7 @@
 
 ## Description
 
-This Python script (`db.py`) provides a comprehensive solution for managing a retail shop database using PostgreSQL. It covers various database operations, from setting up the database schema and optimizing performance to data manipulation, advanced querying, and data export. The script is menu-driven, allowing users to interactively perform different tasks.
+This Python script (`SQL.py`) provides a comprehensive solution for managing a retail shop database using PostgreSQL. It covers various database operations, from setting up the database schema and optimizing performance to data manipulation, advanced querying, and data export. The script is menu-driven, allowing users to interactively perform different tasks.
 
 ## Features
 
